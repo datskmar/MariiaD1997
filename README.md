@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-📊 GitHub Stats:
+### Activities
 ![](https://github-readme-stats.vercel.app/api?username=MariiaD1997&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MariiaD1997&theme=dark&hide_border=false)<br/>
+
+### My languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MariiaD1997&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <!--
